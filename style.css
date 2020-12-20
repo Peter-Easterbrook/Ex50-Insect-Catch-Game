@@ -76,6 +76,7 @@ h1 {
   width: 150px;
   height: 150px;
   border-radius: 50%;
+  outline: 0;
 }
 
 .choose-insect-btn:hover {
